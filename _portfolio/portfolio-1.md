@@ -15,4 +15,4 @@ Arduino C++, C# WinForms, ZedGraph, Git/GitHub
 
 ## Link
 
-[GitHub Repository](https://github.com/ToQuangHieu0409/Arduino_LM35_TempMonitor)
+[GitHub Repository](https://github.com/LeTunn/Arduino_LM35_TempMonitor.git)
